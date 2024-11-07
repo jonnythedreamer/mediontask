@@ -1,0 +1,7 @@
+export const ADD_USER = 'ADD_USER'
+export const REMOVE_USER = 'REMOVE_USER'
+export const SET_USERS = 'SET_USERS'
+export const LOGIN_USER = 'LOGIN_USER'
+export const CHANGE_USER = 'CHANGE_USER'
+export const SET_PROFESSIONS = 'SET_PROFESSIONS'
+export const SET_PERMISSIONS = 'SET_PERMISSIONS'
